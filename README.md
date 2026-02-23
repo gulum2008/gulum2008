@@ -1,16 +1,18 @@
-## Hi there 👋
+# Salom 👋 Men Gulsevar
 
-<!--
-**gulum2008/gulum2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 Ta'lim
+- Maktab / Litsey / Universitet nomi
+26-maktab
+## 💻 Ko'nikmalar
+- Python
+- HTML
+- CSS
 
-Here are some ideas to get you started:
+## 📚 Hozir o‘rganayapman
+- JavaScript
+- Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📞 Aloqa
+- Email: gulsevarabdullayeva689@gmail.com
+- Telegram: @abdullayeva_2008
+  
