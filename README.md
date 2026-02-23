@@ -1,8 +1,7 @@
 # Salom 👋 Men Gulsevar
 
 ## 🎓 Ta'lim
-- Maktab / Litsey / Universitet nomi
-26-maktab
+- 26-maktab
 ## 💻 Ko'nikmalar
 - Python
 - HTML
